@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Title 3",
+      "description": "",
+      "duedate": "2018-06-01",
+      "prio": 3,
+      "isdone": true
+    },
+    {
+      "id": 36,
+      "title": "wow",
+      "description": "",
+      "duedate": "2018-05-24",
+      "prio": 3,
+      "isdone": true
+    },
+    {
+      "id": 39,
+      "title": "test low prio",
+      "description": "prio 3",
+      "duedate": "2018-05-24",
+      "prio": "3",
+      "isdone": false
+    },
+    {
+      "id": 40,
+      "title": "test med prio",
+      "description": "prio 2",
+      "duedate": "2018-05-24",
+      "prio": "2",
+      "isdone": true
+    },
+    {
+      "id": 41,
+      "title": "he?",
+      "description": "",
+      "duedate": "2018-05-24",
+      "prio": "2",
+      "isdone": false
+    },
+    {
+      "id": 43,
+      "title": "add2",
+      "description": "",
+      "duedate": "2018-05-24",
+      "prio": "2",
+      "isdone": false
+    },
+    {
+      "id": 44,
+      "title": "add1",
+      "description": "",
+      "duedate": "2018-05-24",
+      "prio": "1",
+      "isdone": false
+    },
+    {
+      "id": 45,
+      "title": "Nowy",
+      "description": "Myszak patrzy!",
+      "duedate": "2018-06-14",
+      "prio": "2",
+      "isdone": false
+    },
+    {
+      "id": 46,
+      "title": "",
+      "description": "",
+      "duedate": "2018-06-04",
+      "prio": "3",
+      "isdone": false
+    }
+  ]
+}
